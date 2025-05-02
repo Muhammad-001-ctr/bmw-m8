@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+th,td{
+    border: 2px solid black;
+    text-align: center;
+    width: 15%;
+    height: 5%;
+}
+th{
+    background-color: green;
+}
+.b{
+    background-color: blue;
+}
+
+h3{
+    color:purple;
+}
+button{
+    background-color:purple ;
+}
+div{
+    text-align: center;
+ 
+    border-radius: 2%;
+    border:;
+    
+}
+
